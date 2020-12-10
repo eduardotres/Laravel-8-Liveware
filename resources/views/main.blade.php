@@ -17,7 +17,9 @@
     <hr>
     <h3>Live-Cycle</h3>
     @livewire('live-cycle-hooks')
-
+    <hr>
+    <h3>Component-Dad</h3>
+    @livewire('component-dad')
 
     @livewireScripts
 
