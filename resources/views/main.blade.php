@@ -8,6 +8,10 @@
 <body>
      
     @livewire('first')
+    <hr>
+    @livewire('data-binding')
+    <hr>
+    @livewire('actions')
 
 
     @livewireScripts
